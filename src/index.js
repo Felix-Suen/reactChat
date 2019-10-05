@@ -11,14 +11,7 @@ const firebase = require('firebase');
 require('firebase/firestore');
 
 firebase.initializeApp({
-    apiKey: "AIzaSyBrjbTfzH0Z051_sqGrPZSBIj_qxd3IiOc",
-    authDomain: "putato-e9283.firebaseapp.com",
-    databaseURL: "https://putato-e9283.firebaseio.com",
-    projectId: "putato-e9283",
-    storageBucket: "putato-e9283.appspot.com",
-    messagingSenderId: "386130373652",
-    appId: "1:386130373652:web:c127e5b595ce4f1a404b01",
-    measurementId: "G-7MGJB2BZ3G"
+
 });
 
 const routing = (
